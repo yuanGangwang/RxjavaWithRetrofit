@@ -1,1 +1,7 @@
-author： wang
+author：wang
+1 对json进行二次封装，basejson作为所有返回对象的基类
+2 对retrofit进行封装，可处理数据异常，网络异常以及其他自定义异常信息，返回自定义的通用call接口
+3 retrofit与rxjava的结合使用，简化界面流程
+
+该网络框架还有有待优化的地方，希望大家指出
+个人邮箱：592357390@qq.com
